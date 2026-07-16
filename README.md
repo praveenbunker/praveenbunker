@@ -139,3 +139,10 @@ https://linkedin.com/in/praveen-bunker-21a104326/
 ⭐ Thanks for visiting my profile ⭐
 
 </h3>
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/praveenbunker/praveenbunker/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+</p>
+
+
