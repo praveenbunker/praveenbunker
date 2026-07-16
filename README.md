@@ -82,9 +82,9 @@ B.Tech CSE (AI & ML) Student • Python Developer • Data Science & Machine Lea
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=praveenbunker&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=praveenbunker&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenbunker&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=praveenbunker&layout=compact&theme=tokyonight"/>
 
 </p>
 
